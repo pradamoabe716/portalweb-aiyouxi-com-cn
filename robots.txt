@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pradamoabe716.github.io/portalweb-aiyouxi-com-cn/sitemap.xml
